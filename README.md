@@ -1,2 +1,3 @@
-# Awesome-Computer-Programming-Articles-Translation
-将优秀的计算机编程文章翻译成中文
+# 近期文章列表
+
+* [GAN：利用机器学习生成“假”图像](/published/GAN：利用机器学习生成“假”图像.md) ([Transboundaryan](https://github.com/ThomasTransboundaryYan) 翻译)
